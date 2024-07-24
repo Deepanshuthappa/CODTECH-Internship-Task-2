@@ -1,7 +1,10 @@
 # CodtechInternshipTask-2
 Name:   Deepanshu Thappa
+
 Company: CODTECH IT SOLUTION
+
 ID:     CT08DS5186
+
 Domain: Cyber Security
 
 # Python Port Scanner
